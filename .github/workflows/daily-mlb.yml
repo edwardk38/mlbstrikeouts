@@ -1,0 +1,50 @@
+name: Daily MLB Starter Strikeouts
+
+on:
+  schedule:
+    # 11:30 UTC ≈ 7:30 AM ET — after even late West Coast games are final.
+    # GitHub cron is always UTC and can be delayed a few minutes under load.
+    - cron: "30 11 * * *"
+  workflow_dispatch: {}   # adds a "Run workflow" button so you can test on demand
+
+permissions:
+  contents: write         # lets the job commit the updated CSV back to the repo
+
+jobs:
+  compile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Compile yesterday's strikeouts
+        run: python mlb_starter_strikeouts.py | tee daily_report.txt
+
+      - name: Commit updated CSV
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add mlb_starter_ks.csv 2>/dev/null || true
+          git diff --staged --quiet || (git commit -m "MLB starter strikeouts $(date -u +%F)" && git push)
+
+      - name: Email the daily list
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "MLB starting pitcher strikeouts"
+          to: ${{ secrets.MAIL_TO }}
+          from: MLB Bot <${{ secrets.MAIL_USERNAME }}>
+          body: file://daily_report.txt
+          attachments: mlb_starter_ks.csv
