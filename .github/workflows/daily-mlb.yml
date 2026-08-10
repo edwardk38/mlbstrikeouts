@@ -1,17 +1,17 @@
-name: Daily MLB Starter Strikeouts
+name: Daily MLB Starter Preview
 
 on:
   schedule:
-    # 11:30 UTC ≈ 7:30 AM ET — after even late West Coast games are final.
-    # GitHub cron is always UTC and can be delayed a few minutes under load.
-    - cron: "30 11 * * *"
+    # 12:00 UTC ≈ 8:00 AM ET. Probable starters for the day are usually posted
+    # by early morning. GitHub cron is UTC and can be delayed a few minutes.
+    - cron: "0 12 * * *"
   workflow_dispatch: {}   # adds a "Run workflow" button so you can test on demand
 
 permissions:
-  contents: write         # lets the job commit the updated CSV back to the repo
+  contents: write         # lets the job commit the updated log CSV back
 
 jobs:
-  compile:
+  preview:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
@@ -25,17 +25,17 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Compile yesterday's strikeouts
-        run: python mlb_starter_strikeouts.py | tee daily_report.txt
+      - name: Build today's starter board
+        run: python mlb_pitcher_core.py | tee daily_report.txt
 
-      - name: Commit updated CSV
+      - name: Commit page + log
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add mlb_starter_ks.csv 2>/dev/null || true
-          git diff --staged --quiet || (git commit -m "MLB starter strikeouts $(date -u +%F)" && git push)
+          git add index.html mlb_previews.csv 2>/dev/null || true
+          git diff --staged --quiet || (git commit -m "MLB starters $(date -u +%F)" && git push)
 
-      - name: Email the daily list
+      - name: Email the preview
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
@@ -43,8 +43,8 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "MLB starting pitcher strikeouts"
+          subject: "Today's probable MLB starters"
           to: ${{ secrets.MAIL_TO }}
           from: MLB Bot <${{ secrets.MAIL_USERNAME }}>
           body: file://daily_report.txt
-          attachments: mlb_starter_ks.csv
+          attachments: mlb_previews.csv
