@@ -165,6 +165,7 @@ def gamelog_starts(pid, season):
             "strikes": int(st.get("strikes") or 0),
             "hits": int(st.get("hits") or 0),
             "er": int(st.get("earnedRuns") or 0),
+            "hr": int(st.get("homeRuns") or 0),
         })
     return starts
 
@@ -391,10 +392,11 @@ def text_report(date, games):
             for note in a["notes"]:
                 out.append(f"    • {note}")
             if a["last4"]:
-                out.append("    Last 4 (IP/K/BB/P-S/H):")
+                out.append("    Last 4 (IP/H/ER/HR/BB/SO  NP-S):")
                 for s in a["last4"]:
                     out.append(f"      {s['date'][5:]} {s['opp']:<7} "
-                               f"{s['ip_str']}/{s['k']}/{s['bb']}/{s['pitches']}-{s['strikes']}/{s['hits']}")
+                               f"{s['ip_str']}/{s['hits']}/{s['er']}/{s['hr']}/{s['bb']}/{s['k']}  "
+                               f"{s['pitches']}-{s['strikes']}")
     return "\n".join(out)
 
 
@@ -528,12 +530,14 @@ def html_arm(a):
     if a["last4"]:
         body = "".join(
             f'<tr><td>{esc(s["date"][5:])}</td><td>{esc(s["opp"])}</td><td>{esc(s["ip_str"])}</td>'
-            f'<td class="k">{esc(s["k"])}</td><td>{esc(s["bb"])}</td>'
-            f'<td>{esc(s["pitches"])}-{esc(s["strikes"])}</td><td>{esc(s["hits"])}</td></tr>'
+            f'<td>{esc(s["hits"])}</td><td>{esc(s["er"])}</td><td>{esc(s["hr"])}</td>'
+            f'<td>{esc(s["bb"])}</td><td class="k">{esc(s["k"])}</td>'
+            f'<td>{esc(s["pitches"])}-{esc(s["strikes"])}</td></tr>'
             for s in a["last4"]
         )
         last4 = ('<div class="last4"><div class="cap">Last 4 starts</div><table>'
-                 '<tr><th>Date</th><th>Opp</th><th>IP</th><th>K</th><th>BB</th><th>P-S</th><th>H</th></tr>'
+                 '<tr><th>Date</th><th>Opp</th><th>IP</th><th>H</th><th>ER</th><th>HR</th>'
+                 '<th>BB</th><th>SO</th><th>NP-S</th></tr>'
                  f'{body}</table></div>')
     else:
         last4 = '<div class="last4"><div class="cap">Last 4 starts</div><div class="pcode">no game-log data</div></div>'
