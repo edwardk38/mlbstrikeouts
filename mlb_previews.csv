@@ -258,3 +258,21 @@ date,matchup,code,pitcher,hand,era,k9,ip,k,avg_pitches,exp_k,notes
 2026-08-16,MIL @ LAD,LAD,Tarik Skubal,LHP,2.93,10.70,107.2,128,90,7.0,"Workhorse — 90+ pitches in 6 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Misses bats — 10.70 K/9, about a strikeout an inning. | Strikeout run — 5+ K in 10 straight starts."
 2026-08-16,SEA @ HOU,SEA,Bryan Woo,RHP,4.15,8.98,132.1,132,89,5.6,Workhorse — 90+ pitches in 6 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Strikeout run — 5+ K in 7 straight starts.
 2026-08-16,SEA @ HOU,HOU,Hunter Brown,RHP,3.68,9.47,63.2,67,92,5.8,"Workhorse — 90+ pitches in 7 of his last 10 starts. | Misses bats — 9.47 K/9, about a strikeout an inning. | Tough on left-handed bats — .214 against (126 AB). | Tough on right-handed bats — .184 against (103 AB)."
+2026-08-17,STL @ CIN,CIN,Rhett Lowder,RHP,5.15,7.35,94.1,77,83,3.9,Workhorse — 90+ pitches in 6 of his last 10 starts.
+2026-08-17,BAL @ TB,BAL,Brandon Young,RHP,3.33,7.36,113.2,93,91,4.0,Workhorse — 90+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Team has won 7 of his last 10 starts.
+2026-08-17,BAL @ TB,TB,Shane McClanahan,LHP,3.09,8.27,99.0,91,77,5.0,Tough on left-handed bats — .125 against (80 AB).
+2026-08-17,MIA @ PHI,MIA,Janson Junk,RHP,4.41,6.57,87.2,64,82,3.9,Rolling — 1.93 ERA over his last 4 (4 ER in 18.7 IP). | Tough on right-handed bats — .209 against (129 AB).
+2026-08-17,MIA @ PHI,PHI,Cristopher Sánchez,LHP,2.54,10.46,155.2,181,96,7.1,"Workhorse — 90+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Misses bats — 10.46 K/9, about a strikeout an inning. | Rolling — 1.96 ERA over his last 4 (5 ER in 23.0 IP)."
+2026-08-17,DET @ PIT,DET,Framber Valdez,LHP,4.26,7.17,133.0,106,89,4.8,Workhorse — 90+ pitches in 6 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10.
+2026-08-17,DET @ PIT,PIT,Carmen Mlodzinski,RHP,3.79,7.04,99.2,78,82,7.3,
+2026-08-17,AZ @ BOS,AZ,Mitch Bratt,LHP,3.74,6.68,33.2,25,77,3.5,Tough on right-handed bats — .214 against (84 AB).
+2026-08-17,SD @ NYM,SD,Walker Buehler,RHP,4.88,7.87,114.1,100,82,4.3,Team has won 8 of his last 10 starts.
+2026-08-17,SD @ NYM,NYM,Nolan McLean,RHP,3.42,10.47,136.2,159,94,6.6,"Workhorse — 90+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Misses bats — 10.47 K/9, about a strikeout an inning. | Going deep — 6+ innings in 5 of his last 6 starts."
+2026-08-17,ATH @ KC,ATH,Mason Barnett,RHP,6.16,8.53,38.0,36,74,11.6,Tough on right-handed bats — .214 against (70 AB).
+2026-08-17,ATH @ KC,KC,Michael Wacha,RHP,3.46,6.99,150.2,117,94,5.0,Workhorse — 90+ pitches in 10 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Rolling — 2.49 ERA over his last 4 (7 ER in 25.3 IP).
+2026-08-17,ATL @ MIN,ATL,Martín Pérez,LHP,2.96,6.77,106.1,80,80,4.1,Rolling — 1.29 ERA over his last 4 (3 ER in 21.0 IP). | Tough on right-handed bats — .196 against (265 AB).
+2026-08-17,ATL @ MIN,MIN,Bailey Ober,RHP,4.64,6.09,99.0,67,85,3.6,Works into the 6th regularly — 5+ IP in 8 of his last 10. | Team has won 7 of his last 10 starts.
+2026-08-17,CWS @ CHC,CWS,Luis Castillo,RHP,4.96,8.21,110.2,101,92,5.3,Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10.
+2026-08-17,CWS @ CHC,CHC,Shota Imanaga,LHP,3.74,8.52,137.1,130,90,5.9,Durable — 80+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Team has won 7 of his last 10 starts. | Tough on left-handed bats — .207 against (145 AB).
+2026-08-17,LAD @ COL,LAD,Blake Snell,LHP,5.00,15.00,9.0,15,80,7.7,"Misses bats — 15.00 K/9, about a strikeout an inning."
+2026-08-17,LAD @ COL,COL,Tomoyuki Sugano,RHP,4.43,5.23,113.2,66,86,2.9,Durable — 80+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Team has won 8 of his last 10 starts.
