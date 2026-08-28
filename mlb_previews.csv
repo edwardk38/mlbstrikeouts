@@ -628,3 +628,33 @@ date,matchup,code,pitcher,hand,era,k9,ip,k,avg_pitches,exp_k,notes
 2026-08-27,LAD @ ATL,ATL,Chris Sale,LHP,2.20,11.07,135.0,166,94,6.7,"Workhorse — 90+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Misses bats — 11.07 K/9, about a strikeout an inning. | Rolling — 2.25 ERA over his last 4 (6 ER in 24.0 IP)."
 2026-08-27,AZ @ SF,AZ,Jose Cabrera,RHP,5.60,6.11,17.2,12,70,2.9,
 2026-08-27,AZ @ SF,SF,Landen Roupp,RHP,4.34,8.69,134.2,130,95,4.5,Workhorse — 90+ pitches in 7 of his last 10 starts. | Tough on left-handed bats — .217 against (295 AB).
+2026-08-28,CIN @ CHC,CIN,Rhett Lowder,RHP,5.14,7.07,112.0,88,85,4.1,Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10.
+2026-08-28,CIN @ CHC,CHC,David Peterson,LHP,5.11,7.95,123.1,109,85,7.0,Durable — 80+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10.
+2026-08-28,LAD @ DET,LAD,Tarik Skubal,LHP,2.91,10.89,120.2,146,91,7.5,"Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Misses bats — 10.89 K/9, about a strikeout an inning. | Going deep — 6+ innings in 5 of his last 6 starts."
+2026-08-28,LAD @ DET,DET,Drew Anderson,RHP,4.09,10.07,81.1,91,64,14.2,"Misses bats — 10.07 K/9, about a strikeout an inning."
+2026-08-28,MIA @ WSH,MIA,Eury Pérez,RHP,3.17,9.66,127.2,137,91,5.8,"Workhorse — 90+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Misses bats — 9.66 K/9, about a strikeout an inning. | Rolling — 1.96 ERA over his last 4 (5 ER in 23.0 IP)."
+2026-08-28,MIA @ WSH,WSH,Jackson Kent,LHP,8.03,10.22,12.1,14,84,4.6,"Misses bats — 10.22 K/9, about a strikeout an inning."
+2026-08-28,KC @ CLE,KC,Michael Wacha,RHP,3.49,6.97,162.2,126,94,4.7,Workhorse — 90+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Tough on left-handed bats — .220 against (350 AB).
+2026-08-28,KC @ CLE,CLE,Tanner Bibee,RHP,3.97,7.08,156.1,123,90,4.3,Workhorse — 90+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Going deep — 6+ innings in 5 of his last 6 starts.
+2026-08-28,HOU @ NYM,HOU,Hunter Brown,RHP,3.51,9.20,74.1,76,93,5.6,"Workhorse — 90+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Misses bats — 9.20 K/9, about a strikeout an inning. | Tough on right-handed bats — .192 against (120 AB)."
+2026-08-28,HOU @ NYM,NYM,Christian Scott,RHP,3.73,11.18,89.1,111,86,5.8,"Durable — 80+ pitches in 9 of his last 10 starts. | Misses bats — 11.18 K/9, about a strikeout an inning. | Team has won 7 of his last 10 starts. | Strikeout run — 5+ K in 11 straight starts."
+2026-08-28,SD @ TB,SD,Casey Mize,RHP,3.44,8.17,104.2,95,81,4.0,Tough on left-handed bats — .208 against (221 AB).
+2026-08-28,SD @ TB,TB,Shane McClanahan,LHP,3.10,8.30,107.1,99,76,4.5,Tough on left-handed bats — .124 against (89 AB).
+2026-08-28,SEA @ TOR,SEA,Emerson Hancock,RHP,3.37,8.42,133.2,125,88,4.6,Workhorse — 90+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10.
+2026-08-28,SEA @ TOR,TOR,Dylan Cease,RHP,2.37,13.03,144.1,209,102,9.2,"Workhorse — 90+ pitches in 10 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Misses bats — 13.03 K/9, about a strikeout an inning. | Rolling — 2.16 ERA over his last 4 (6 ER in 25.0 IP)."
+2026-08-28,COL @ ATL,COL,Tomoyuki Sugano,RHP,4.96,5.25,121.2,71,87,3.0,Durable — 80+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10.
+2026-08-28,COL @ ATL,ATL,Grant Holmes,RHP,3.64,7.28,123.2,100,80,4.3,Rolling — 2.49 ERA over his last 4 (6 ER in 21.7 IP). | Team has won 8 of his last 10 starts. | Tough on left-handed bats — .220 against (273 AB).
+2026-08-28,BOS @ NYY,BOS,Patrick Sandoval,LHP,4.54,9.30,39.2,41,84,5.8,"Misses bats — 9.30 K/9, about a strikeout an inning."
+2026-08-28,BOS @ NYY,NYY,Cam Schlittler,RHP,2.16,10.99,158.0,193,92,6.9,"Workhorse — 90+ pitches in 8 of his last 10 starts. | Misses bats — 10.99 K/9, about a strikeout an inning. | Tough on left-handed bats — .202 against (351 AB). | Tough on right-handed bats — .195 against (226 AB)."
+2026-08-28,TEX @ MIL,TEX,Cody Bradford,LHP,3.05,5.66,20.2,13,76,3.2,
+2026-08-28,TEX @ MIL,MIL,Logan Henderson,RHP,2.60,10.25,69.1,79,80,6.3,"Durable — 80+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Misses bats — 10.25 K/9, about a strikeout an inning. | Rolling — 2.49 ERA over his last 4 (7 ER in 25.3 IP)."
+2026-08-28,CWS @ MIN,CWS,Luis Castillo,RHP,5.19,8.01,118.0,105,92,4.8,Workhorse — 90+ pitches in 7 of his last 10 starts.
+2026-08-28,CWS @ MIN,MIN,Dean Kremer,RHP,5.22,8.90,58.2,58,88,5.7,Durable — 80+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Tough on right-handed bats — .209 against (91 AB).
+2026-08-28,PIT @ STL,PIT,Jared Jones,RHP,4.76,10.19,68.0,77,76,4.8,"Misses bats — 10.19 K/9, about a strikeout an inning."
+2026-08-28,PIT @ STL,STL,Quinn Mathews,LHP,6.43,8.36,14.0,13,97,4.8,
+2026-08-28,PHI @ LAA,PHI,Andrew Painter,RHP,6.04,7.70,92.1,79,83,5.3,
+2026-08-28,PHI @ LAA,LAA,Reid Detmers,LHP,3.62,10.39,149.0,172,92,6.7,"Durable — 80+ pitches in 10 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Misses bats — 10.39 K/9, about a strikeout an inning. | Rolling — 1.50 ERA over his last 4 (4 ER in 24.0 IP)."
+2026-08-28,BAL @ ATH,BAL,Brandon Young,RHP,3.50,7.22,123.1,99,90,4.6,Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Team has won 7 of his last 10 starts.
+2026-08-28,BAL @ ATH,ATH,Jacob Lopez,LHP,4.98,8.62,94.0,90,84,5.5,Durable — 80+ pitches in 8 of his last 10 starts. | Rolling — 2.62 ERA over his last 4 (7 ER in 24.0 IP). | Strikeout run — 5+ K in 5 straight starts. | Tough on left-handed bats — .204 against (93 AB).
+2026-08-28,AZ @ SF,AZ,Kohl Drake,LHP,5.40,7.02,16.2,13,81,3.1,
+2026-08-28,AZ @ SF,SF,Blade Tidwell,RHP,3.58,7.44,32.2,27,88,5.9,
