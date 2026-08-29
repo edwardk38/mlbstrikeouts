@@ -658,3 +658,34 @@ date,matchup,code,pitcher,hand,era,k9,ip,k,avg_pitches,exp_k,notes
 2026-08-28,BAL @ ATH,ATH,Jacob Lopez,LHP,4.98,8.62,94.0,90,84,5.5,Durable — 80+ pitches in 8 of his last 10 starts. | Rolling — 2.62 ERA over his last 4 (7 ER in 24.0 IP). | Strikeout run — 5+ K in 5 straight starts. | Tough on left-handed bats — .204 against (93 AB).
 2026-08-28,AZ @ SF,AZ,Kohl Drake,LHP,5.40,7.02,16.2,13,81,3.1,
 2026-08-28,AZ @ SF,SF,Blade Tidwell,RHP,3.58,7.44,32.2,27,88,5.9,
+2026-08-29,BOS @ NYY,BOS,Jake Bennett,LHP,3.49,6.88,87.2,67,82,5.0,Durable — 80+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Team has won 7 of his last 10 starts. | Tough on left-handed bats — .179 against (84 AB).
+2026-08-29,BOS @ NYY,NYY,Carlos Rodón,LHP,3.15,9.61,54.1,58,88,5.1,"Workhorse — 90+ pitches in 6 of his last 10 starts. | Misses bats — 9.61 K/9, about a strikeout an inning. | Rolling — 2.45 ERA over his last 4 (5 ER in 18.3 IP). | Team has won 7 of his last 10 starts."
+2026-08-29,BOS @ NYY,NYY,Max Fried,LHP,2.81,8.24,86.1,79,86,5.1,Works into the 6th regularly — 5+ IP in 8 of his last 10. | Rolling — 2.29 ERA over his last 4 (5 ER in 19.7 IP). | Tough on left-handed bats — .160 against (75 AB). | Tough on right-handed bats — .210 against (224 AB).
+2026-08-29,LAD @ DET,LAD,Blake Snell,LHP,2.57,11.14,21.0,26,86,6.7,"Misses bats — 11.14 K/9, about a strikeout an inning. | Rolling — 2.57 ERA over his last 4 (6 ER in 21.0 IP)."
+2026-08-29,LAD @ DET,DET,Keider Montero,RHP,3.30,5.99,133.2,89,81,4.0,Works into the 6th regularly — 5+ IP in 9 of his last 10. | Tough on left-handed bats — .211 against (275 AB). | Tough on right-handed bats — .205 against (219 AB).
+2026-08-29,CWS @ MIN,CWS,Erick Fedde,RHP,4.18,6.39,118.1,84,80,6.7,Team has won 8 of his last 10 starts.
+2026-08-29,CWS @ MIN,MIN,Bailey Ober,RHP,4.49,6.15,108.1,74,86,4.0,
+2026-08-29,PIT @ STL,PIT,Lake Bachar,RHP,3.70,9.25,73.0,75,42,11.8,"Misses bats — 9.25 K/9, about a strikeout an inning. | Tough on left-handed bats — .218 against (147 AB). | Tough on right-handed bats — .164 against (116 AB)."
+2026-08-29,PIT @ STL,STL,Kyle Leahy,RHP,3.13,8.19,126.1,115,83,5.1,Works into the 6th regularly — 5+ IP in 8 of his last 10. | Rolling — 1.42 ERA over his last 4 (3 ER in 19.0 IP). | Tough on right-handed bats — .215 against (237 AB).
+2026-08-29,CIN @ CHC,CIN,Andrew Abbott,LHP,4.15,7.06,145.1,114,93,4.2,Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10.
+2026-08-29,CIN @ CHC,CHC,Kevin Gausman,RHP,4.37,8.92,150.1,149,93,6.3,Workhorse — 90+ pitches in 9 of his last 10 starts.
+2026-08-29,SEA @ TOR,SEA,Kade Anderson,LHP,4.76,7.94,5.2,5,81,4.4,
+2026-08-29,SEA @ TOR,TOR,José Soriano,RHP,3.43,8.92,144.1,143,93,5.8,Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Tough on right-handed bats — .213 against (230 AB).
+2026-08-29,AZ @ SF,AZ,Merrill Kelly,RHP,5.35,5.88,134.2,88,91,3.6,Durable — 80+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10.
+2026-08-29,AZ @ SF,AZ,Mitch Bratt,LHP,4.54,6.35,39.2,28,75,3.0,
+2026-08-29,MIA @ WSH,MIA,Sandy Alcantara,RHP,3.38,6.71,183.2,137,99,4.8,Workhorse — 90+ pitches in 10 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Rolling — 1.67 ERA over his last 4 (5 ER in 27.0 IP). | Going deep — 6+ innings in 6 of his last 6 starts.
+2026-08-29,MIA @ WSH,WSH,Cade Cavalli,RHP,3.21,10.23,148.2,169,87,5.9,"Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Misses bats — 10.23 K/9, about a strikeout an inning. | Rolling — 1.73 ERA over his last 4 (5 ER in 26.0 IP)."
+2026-08-29,KC @ CLE,KC,Daniel Lynch IV,LHP,2.93,6.63,58.1,43,44,10.5,Tough on left-handed bats — .172 against (93 AB).
+2026-08-29,KC @ CLE,CLE,Foster Griffin,LHP,3.19,8.14,149.1,135,94,4.9,Workhorse — 90+ pitches in 6 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Tough on left-handed bats — .188 against (149 AB).
+2026-08-29,HOU @ NYM,HOU,Bennett Sousa,LHP,6.27,10.13,18.2,21,,5.3,"Misses bats — 10.13 K/9, about a strikeout an inning."
+2026-08-29,HOU @ NYM,NYM,Nolan McLean,RHP,3.21,10.17,148.2,168,94,6.4,"Workhorse — 90+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Misses bats — 10.17 K/9, about a strikeout an inning. | Rolling — 2.74 ERA over his last 4 (7 ER in 23.0 IP)."
+2026-08-29,SD @ TB,SD,Walker Buehler,RHP,4.63,7.69,126.1,108,83,3.5,Rolling — 2.05 ERA over his last 4 (5 ER in 22.0 IP). | Team has won 7 of his last 10 starts.
+2026-08-29,SD @ TB,TB,Nick Martinez,RHP,2.93,5.30,147.2,87,83,3.4,Works into the 6th regularly — 5+ IP in 9 of his last 10. | Team has won 8 of his last 10 starts.
+2026-08-29,COL @ ATL,COL,Ryan Feltner,RHP,6.08,6.45,97.2,70,81,3.4,Durable — 80+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10.
+2026-08-29,COL @ ATL,ATL,Martín Pérez,LHP,3.12,6.63,115.1,85,81,4.2,Rolling — 2.50 ERA over his last 4 (5 ER in 18.0 IP). | Tough on right-handed bats — .208 against (293 AB).
+2026-08-29,TEX @ MIL,TEX,Cal Quantrill,RHP,2.90,6.45,83.2,60,75,5.8,Rolling — 0.75 ERA over his last 4 (2 ER in 24.0 IP). | Tough on right-handed bats — .209 against (148 AB).
+2026-08-29,TEX @ MIL,MIL,Shane Drohan,LHP,3.84,8.89,105.1,104,84,7.2,Durable — 80+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10.
+2026-08-29,BAL @ ATH,BAL,Shane Baz,RHP,4.04,8.03,151.1,135,95,5.3,Workhorse — 90+ pitches in 8 of his last 10 starts.
+2026-08-29,BAL @ ATH,ATH,Jack Perkins,RHP,6.68,10.36,90.1,104,83,10.5,"Misses bats — 10.36 K/9, about a strikeout an inning."
+2026-08-29,PHI @ LAA,PHI,Cristopher Sánchez,LHP,2.62,10.37,168.1,194,96,8.2,"Workhorse — 90+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Misses bats — 10.37 K/9, about a strikeout an inning. | Rolling — 2.66 ERA over his last 4 (7 ER in 23.7 IP)."
+2026-08-29,PHI @ LAA,LAA,Ryan Johnson,RHP,5.75,6.68,67.1,50,83,3.9,Rolling — 1.69 ERA over his last 4 (4 ER in 21.3 IP).
