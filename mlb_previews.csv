@@ -720,3 +720,31 @@ date,matchup,code,pitcher,hand,era,k9,ip,k,avg_pitches,exp_k,notes
 2026-08-29,BAL @ ATH,ATH,Jack Perkins,RHP,6.68,10.36,90.1,104,83,10.5,"Misses bats — 10.36 K/9, about a strikeout an inning."
 2026-08-29,PHI @ LAA,PHI,Cristopher Sánchez,LHP,2.62,10.37,168.1,194,96,8.2,"Workhorse — 90+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Misses bats — 10.37 K/9, about a strikeout an inning. | Rolling — 2.66 ERA over his last 4 (7 ER in 23.7 IP)."
 2026-08-29,PHI @ LAA,LAA,Ryan Johnson,RHP,5.75,6.68,67.1,50,83,3.9,Rolling — 1.69 ERA over his last 4 (4 ER in 21.3 IP).
+2026-08-30,MIA @ WSH,MIA,Janson Junk,RHP,4.21,6.22,98.1,68,82,3.5,Tough on right-handed bats — .211 against (142 AB).
+2026-08-30,MIA @ WSH,WSH,Andrew Alvarez,LHP,3.72,8.50,84.2,80,78,6.6,
+2026-08-30,COL @ ATL,COL,Mason Adams,RHP,2.25,11.25,4.0,5,75,4.9,"Misses bats — 11.25 K/9, about a strikeout an inning."
+2026-08-30,COL @ ATL,ATL,Tyler Mahle,RHP,4.41,8.52,118.1,112,88,5.3,Workhorse — 90+ pitches in 6 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Rolling — 1.52 ERA over his last 4 (4 ER in 23.7 IP).
+2026-08-30,BOS @ NYY,BOS,Ranger Suarez,LHP,3.35,8.90,118.1,117,83,5.7,Team has won 8 of his last 10 starts.
+2026-08-30,BOS @ NYY,NYY,Will Warren,RHP,4.39,8.93,127.0,126,87,4.9,
+2026-08-30,SEA @ TOR,SEA,Logan Gilbert,RHP,3.36,9.39,155.1,162,95,5.5,"Workhorse — 90+ pitches in 10 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Misses bats — 9.39 K/9, about a strikeout an inning. | Team has won 7 of his last 10 starts."
+2026-08-30,SEA @ TOR,TOR,Max Scherzer,RHP,7.02,6.48,50.0,36,77,3.2,Tough on right-handed bats — .216 against (74 AB).
+2026-08-30,KC @ CLE,KC,Seth Lugo,RHP,4.61,6.94,150.1,116,90,4.2,Workhorse — 90+ pitches in 6 of his last 10 starts. | Team has won 7 of his last 10 starts.
+2026-08-30,KC @ CLE,CLE,Parker Messick,LHP,2.50,9.06,155.0,156,92,5.7,"Workhorse — 90+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Misses bats — 9.06 K/9, about a strikeout an inning. | Rolling — 2.13 ERA over his last 4 (6 ER in 25.3 IP)."
+2026-08-30,LAD @ DET,LAD,Tyler Glasnow,RHP,3.02,11.28,44.2,56,86,7.2,"Workhorse — 90+ pitches in 6 of his last 8 starts. | Misses bats — 11.28 K/9, about a strikeout an inning. | Rolling — 2.75 ERA over his last 4 (6 ER in 19.7 IP). | Tough on left-handed bats — .170 against (94 AB)."
+2026-08-30,LAD @ DET,DET,Framber Valdez,LHP,4.35,6.91,144.2,111,89,4.0,Durable — 80+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10.
+2026-08-30,SD @ TB,SD,Robbie Ray,LHP,3.21,7.68,143.0,122,93,4.1,Durable — 80+ pitches in 10 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Tough on right-handed bats — .217 against (383 AB).
+2026-08-30,SD @ TB,TB,Drew Rasmussen,RHP,2.95,9.17,140.1,143,87,5.6,"Durable — 80+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Misses bats — 9.17 K/9, about a strikeout an inning. | Team has won 8 of his last 10 starts."
+2026-08-30,CWS @ MIN,CWS,Jordan Hicks,RHP,3.83,11.03,40.0,49,8,47.1,"Misses bats — 11.03 K/9, about a strikeout an inning."
+2026-08-30,CWS @ MIN,MIN,Zebby Matthews,RHP,4.86,7.64,103.2,88,93,5.3,Workhorse — 90+ pitches in 6 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Team has won 7 of his last 10 starts.
+2026-08-30,TEX @ MIL,TEX,Kumar Rocker,RHP,4.41,8.31,126.2,117,84,5.0,Durable — 80+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Tough on right-handed bats — .219 against (215 AB).
+2026-08-30,TEX @ MIL,MIL,Dustin May,RHP,4.56,8.54,124.1,118,80,4.9,
+2026-08-30,PIT @ STL,PIT,Braxton Ashcraft,RHP,3.59,9.33,155.1,161,88,5.8,"Durable — 80+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Misses bats — 9.33 K/9, about a strikeout an inning. | Rolling — 1.93 ERA over his last 4 (6 ER in 28.0 IP)."
+2026-08-30,PIT @ STL,STL,Matthew Liberatore,LHP,5.44,9.21,129.0,132,85,5.7,"Workhorse — 90+ pitches in 6 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Misses bats — 9.21 K/9, about a strikeout an inning."
+2026-08-30,HOU @ NYM,HOU,Ethan Pecko,RHP,7.88,5.63,8.0,5,88,2.6,
+2026-08-30,HOU @ NYM,NYM,Zac Thornton,LHP,2.88,6.39,56.1,40,83,3.9,Durable — 80+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Tough on left-handed bats — .194 against (67 AB).
+2026-08-30,BAL @ ATH,BAL,Chris Bassitt,RHP,4.74,6.20,74.0,51,85,4.0,Durable — 80+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10.
+2026-08-30,BAL @ ATH,ATH,Jeffrey Springs,LHP,6.08,7.00,118.1,92,85,4.2,
+2026-08-30,PHI @ LAA,PHI,Zack Wheeler,RHP,3.40,10.71,124.1,148,93,7.7,"Workhorse — 90+ pitches in 7 of his last 10 starts. | Misses bats — 10.71 K/9, about a strikeout an inning. | Tough on right-handed bats — .185 against (189 AB)."
+2026-08-30,PHI @ LAA,LAA,Yusei Kikuchi,LHP,6.25,9.25,36.0,37,82,4.7,"Misses bats — 9.25 K/9, about a strikeout an inning."
+2026-08-30,CIN @ CHC,CIN,Chase Burns,RHP,2.77,10.57,139.2,164,92,6.4,"Workhorse — 90+ pitches in 6 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Misses bats — 10.57 K/9, about a strikeout an inning. | Team has won 7 of his last 10 starts."
+2026-08-30,CIN @ CHC,CHC,Shota Imanaga,LHP,3.78,8.92,145.1,144,90,6.4,Durable — 80+ pitches in 9 of his last 10 starts. | Team has won 7 of his last 10 starts. | Tough on left-handed bats — .217 against (152 AB).
