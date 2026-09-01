@@ -771,3 +771,33 @@ date,matchup,code,pitcher,hand,era,k9,ip,k,avg_pitches,exp_k,notes
 2026-08-31,NYY @ LAA,LAA,Walbert Ureña,RHP,2.94,8.66,116.1,112,89,5.7,Workhorse — 90+ pitches in 7 of his last 10 starts. | Tough on left-handed bats — .216 against (227 AB). | Tough on right-handed bats — .188 against (197 AB).
 2026-08-31,PHI @ AZ,PHI,Aaron Nola,RHP,5.03,9.63,143.0,153,91,4.9,"Workhorse — 90+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Misses bats — 9.63 K/9, about a strikeout an inning. | Rolling — 2.35 ERA over his last 4 (6 ER in 23.0 IP)."
 2026-08-31,PHI @ AZ,AZ,Brandon Pfaadt,RHP,3.51,6.17,105.0,72,87,5.2,Durable — 80+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Going deep — 6+ innings in 5 of his last 6 starts. | Team has won 9 of his last 10 starts.
+2026-09-01,SD @ CIN,SD,Randy Vásquez,RHP,4.02,5.56,123.0,76,80,4.2,Rolling — 1.57 ERA over his last 4 (4 ER in 23.0 IP). | Tough on right-handed bats — .217 against (198 AB).
+2026-09-01,SD @ CIN,CIN,Nick Lodolo,LHP,5.24,7.29,79.0,64,88,4.0,Workhorse — 90+ pitches in 6 of his last 10 starts.
+2026-09-01,SF @ PIT,SF,Logan Webb,RHP,3.72,7.19,147.2,118,93,5.5,Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Going deep — 6+ innings in 5 of his last 6 starts. | Tough on right-handed bats — .215 against (219 AB).
+2026-09-01,SF @ PIT,PIT,Paul Skenes,RHP,3.79,10.86,145.0,175,90,6.3,"Durable — 80+ pitches in 9 of his last 10 starts. | Misses bats — 10.86 K/9, about a strikeout an inning. | Tough on left-handed bats — .215 against (312 AB)."
+2026-09-01,NYM @ TB,NYM,Sean Manaea,LHP,4.55,8.80,122.2,120,93,7.2,Workhorse — 90+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Going deep — 6+ innings in 5 of his last 6 starts.
+2026-09-01,NYM @ TB,TB,Freddy Peralta,RHP,5.11,8.49,141.0,133,93,5.1,Workhorse — 90+ pitches in 7 of his last 10 starts.
+2026-09-01,TOR @ CLE,TOR,Spencer Miles,RHP,2.92,8.32,83.1,77,51,15.0,Tough on right-handed bats — .186 against (140 AB).
+2026-09-01,TOR @ CLE,CLE,Gavin Williams,RHP,3.98,11.77,156.0,204,93,6.6,"Workhorse — 90+ pitches in 6 of his last 10 starts. | Misses bats — 11.77 K/9, about a strikeout an inning. | Tough on left-handed bats — .193 against (353 AB)."
+2026-09-01,SEA @ BOS,SEA,Bryan Woo,RHP,4.36,8.98,142.1,142,88,5.5,Workhorse — 90+ pitches in 6 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Strikeout run — 5+ K in 9 straight starts.
+2026-09-01,SEA @ BOS,BOS,Jedixson Paez,RHP,18.00,0.00,3.0,0,,5.0,
+2026-09-01,ATL @ WSH,ATL,AJ Smith-Shawver,RHP,5.93,6.59,13.2,10,78,3.3,
+2026-09-01,ATL @ WSH,WSH,Jake Irvin,RHP,5.62,9.04,81.2,82,87,4.8,"Durable — 80+ pitches in 8 of his last 10 starts. | Misses bats — 9.04 K/9, about a strikeout an inning."
+2026-09-01,DET @ MIN,DET,Troy Melton,RHP,1.86,7.42,97.0,80,89,4.8,Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Rolling — 2.74 ERA over his last 4 (7 ER in 23.0 IP). | Team has won 7 of his last 10 starts.
+2026-09-01,DET @ MIN,MIN,Andrew Morris,RHP,3.82,8.34,63.2,59,27,30.4,
+2026-09-01,MIA @ KC,MIA,Tyler Phillips,RHP,3.59,7.35,105.1,86,72,5.5,
+2026-09-01,MIA @ KC,KC,Randy Dobnak,RHP,1.92,5.92,51.2,34,92,4.2,Workhorse — 90+ pitches in 7 of his last 8 starts.
+2026-09-01,MIL @ CHC,MIL,Robert Gasser,LHP,4.59,8.53,82.1,78,86,5.1,Team has won 8 of his last 10 starts. | Tough on left-handed bats — .176 against (102 AB).
+2026-09-01,MIL @ CHC,CHC,Matthew Boyd,LHP,3.99,7.05,97.0,76,89,4.4,Workhorse — 90+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Going deep — 6+ innings in 5 of his last 6 starts. | Tough on left-handed bats — .213 against (94 AB).
+2026-09-01,ATH @ TEX,ATH,Brady Basso,LHP,4.50,7.07,28.0,22,30,7.6,
+2026-09-01,ATH @ TEX,TEX,MacKenzie Gore,LHP,4.40,9.94,149.1,165,91,6.0,"Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Misses bats — 9.94 K/9, about a strikeout an inning. | Team has won 7 of his last 10 starts."
+2026-09-01,CWS @ HOU,CWS,Sean Burke,RHP,3.32,9.72,149.0,161,92,6.9,"Workhorse — 90+ pitches in 9 of his last 10 starts. | Misses bats — 9.72 K/9, about a strikeout an inning. | Team has won 7 of his last 10 starts. | Tough on right-handed bats — .218 against (225 AB)."
+2026-09-01,CWS @ HOU,HOU,Ronel Blanco,RHP,7.71,7.71,23.1,20,83,5.4,
+2026-09-01,BAL @ COL,BAL,Kyle Bradish,RHP,4.03,8.37,143.0,133,92,5.3,Workhorse — 90+ pitches in 7 of his last 10 starts.
+2026-09-01,BAL @ COL,COL,Gabriel Hughes,RHP,6.61,7.17,47.2,38,85,4.7,
+2026-09-01,NYY @ LAA,NYY,Gerrit Cole,RHP,3.19,9.58,98.2,105,89,7.0,"Workhorse — 90+ pitches in 6 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Misses bats — 9.58 K/9, about a strikeout an inning. | Rolling — 2.52 ERA over his last 4 (7 ER in 25.0 IP)."
+2026-09-01,NYY @ LAA,LAA,Grayson Rodriguez,RHP,6.03,8.16,71.2,65,87,4.9,Durable — 80+ pitches in 8 of his last 10 starts.
+2026-09-01,PHI @ AZ,PHI,Jesús Luzardo,LHP,3.09,11.21,163.0,203,98,6.6,"Workhorse — 90+ pitches in 10 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Misses bats — 11.21 K/9, about a strikeout an inning. | Rolling — 1.71 ERA over his last 4 (5 ER in 26.3 IP)."
+2026-09-01,PHI @ AZ,AZ,Eduardo Rodriguez,LHP,2.50,6.61,162.0,119,95,4.4,Workhorse — 90+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Rolling — 1.40 ERA over his last 4 (4 ER in 25.7 IP). | Team has won 8 of his last 10 starts.
+2026-09-01,STL @ LAD,STL,Michael McGreevy,RHP,3.86,6.20,142.1,98,89,3.5,Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10.
+2026-09-01,STL @ LAD,LAD,Eric Lauer,LHP,4.78,5.98,105.1,70,85,3.9,Workhorse — 90+ pitches in 6 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Team has won 9 of his last 10 starts.
