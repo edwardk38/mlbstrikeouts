@@ -1260,3 +1260,23 @@ date,matchup,code,pitcher,hand,era,k9,ip,k,avg_pitches,exp_k,notes
 2026-09-13,TEX @ AZ,AZ,Eduardo Rodriguez,LHP,2.55,6.66,173.0,128,96,4.6,Workhorse — 90+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Rolling — 1.52 ERA over his last 4 (4 ER in 23.7 IP). | Team has won 8 of his last 10 starts.
 2026-09-13,SD @ SF,SD,Nick Pivetta,RHP,3.43,11.14,21.0,26,69,5.1,"Misses bats — 11.14 K/9, about a strikeout an inning. | Rolling — 1.00 ERA over his last 4 (2 ER in 18.0 IP)."
 2026-09-13,SD @ SF,SF,Logan Webb,RHP,4.10,7.34,155.2,127,92,4.8,Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10.
+2026-09-14,LAD @ CIN,LAD,Tarik Skubal,LHP,2.84,10.57,139.2,164,92,8.2,"Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Misses bats — 10.57 K/9, about a strikeout an inning. | Strikeout run — 5+ K in 15 straight starts."
+2026-09-14,LAD @ CIN,CIN,Nick Lodolo,LHP,5.12,7.53,89.2,75,90,3.9,Workhorse — 90+ pitches in 6 of his last 10 starts.
+2026-09-14,CWS @ CLE,CWS,Sean Newcomb,LHP,2.77,8.32,84.1,78,34,15.0,Rolling — 1.35 ERA over his last 4 (1 ER in 6.7 IP). | Tough on right-handed bats — .200 against (185 AB).
+2026-09-14,CWS @ CLE,CLE,Gavin Williams,RHP,3.78,12.14,169.0,228,94,8.6,"Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Misses bats — 12.14 K/9, about a strikeout an inning. | Tough on left-handed bats — .190 against (374 AB)."
+2026-09-14,DET @ TOR,DET,Troy Melton,RHP,2.42,7.25,108.0,87,90,4.2,Workhorse — 90+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Tough on left-handed bats — .219 against (228 AB). | Tough on right-handed bats — .198 against (167 AB).
+2026-09-14,DET @ TOR,TOR,José Soriano,RHP,3.48,8.50,163.0,154,93,5.5,Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Tough on right-handed bats — .209 against (253 AB).
+2026-09-14,BAL @ NYM,BAL,Brandon Young,RHP,3.71,7.17,140.2,112,90,4.6,Workhorse — 90+ pitches in 7 of his last 10 starts.
+2026-09-14,BAL @ NYM,NYM,Jonah Tong,RHP,4.80,8.40,15.0,14,87,15.7,
+2026-09-14,ATL @ CHC,ATL,Reynaldo López,RHP,4.13,8.37,76.1,71,78,5.7,
+2026-09-14,ATL @ CHC,CHC,David Peterson,LHP,5.28,8.02,131.1,117,85,5.7,Durable — 80+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10.
+2026-09-14,NYY @ MIN,NYY,Will Warren,RHP,4.05,8.92,142.1,141,88,5.0,Durable — 80+ pitches in 8 of his last 10 starts. | Rolling — 2.45 ERA over his last 4 (6 ER in 22.0 IP).
+2026-09-14,NYY @ MIN,MIN,Dean Kremer,RHP,5.65,8.67,71.2,69,86,5.5,Durable — 80+ pitches in 8 of his last 10 starts.
+2026-09-14,SF @ STL,SF,Landen Roupp,RHP,4.00,8.30,150.2,139,94,4.7,Workhorse — 90+ pitches in 6 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Rolling — 2.11 ERA over his last 4 (5 ER in 21.3 IP). | Tough on left-handed bats — .212 against (326 AB).
+2026-09-14,SF @ STL,STL,Quinn Mathews,LHP,4.11,8.22,30.2,28,98,4.5,Workhorse — 90+ pitches in 6 of his last 6 starts.
+2026-09-14,SD @ COL,SD,Casey Mize,RHP,3.70,8.07,119.1,107,81,4.9,Tough on left-handed bats — .214 against (257 AB).
+2026-09-14,SD @ COL,COL,Tomoyuki Sugano,RHP,5.30,5.49,137.2,84,87,3.2,Workhorse — 90+ pitches in 6 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10.
+2026-09-14,SEA @ LAA,SEA,Kade Anderson,LHP,4.29,6.86,21.0,16,82,4.6,
+2026-09-14,SEA @ LAA,LAA,Reid Detmers,LHP,3.32,10.23,168.0,191,93,6.9,"Durable — 80+ pitches in 10 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Misses bats — 10.23 K/9, about a strikeout an inning. | Rolling — 0.72 ERA over his last 4 (2 ER in 25.0 IP)."
+2026-09-14,MIA @ AZ,MIA,Sandy Alcantara,RHP,3.78,6.44,200.0,143,99,4.1,Workhorse — 90+ pitches in 10 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Going deep — 6+ innings in 5 of his last 6 starts.
+2026-09-14,MIA @ AZ,AZ,Corbin Burnes,RHP,0.00,6.00,3.0,2,57,2.0,
