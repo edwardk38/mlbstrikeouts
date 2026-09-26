@@ -1674,3 +1674,27 @@ date,matchup,code,pitcher,hand,era,k9,ip,k,avg_pitches,exp_k,notes
 2026-09-25,LAA @ SEA,SEA,Bryce Miller,RHP,3.99,8.95,112.2,112,86,6.5,Durable — 80+ pitches in 9 of his last 10 starts. | Tough on right-handed bats — .190 against (184 AB).
 2026-09-25,LAD @ SF,LAD,Tarik Skubal,LHP,2.85,10.44,151.2,176,91,7.0,"Workhorse — 90+ pitches in 7 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Misses bats — 10.44 K/9, about a strikeout an inning. | Tough on right-handed bats — .207 against (426 AB)."
 2026-09-25,LAD @ SF,SF,Yunior Marte,RHP,4.66,5.12,19.1,11,86,5.1,
+2026-09-26,NYM @ WSH,NYM,Jonah Tong,RHP,4.21,8.77,25.2,25,88,8.2,
+2026-09-26,NYM @ WSH,WSH,Connelly Early,LHP,3.44,9.13,91.2,93,90,5.5,"Workhorse — 90+ pitches in 8 of his last 10 starts. | Misses bats — 9.13 K/9, about a strikeout an inning. | Tough on left-handed bats — .194 against (98 AB)."
+2026-09-26,PIT @ DET,PIT,Kirby Yates,RHP,3.32,10.62,40.2,48,,6.2,"Misses bats — 10.62 K/9, about a strikeout an inning. | Tough on right-handed bats — .179 against (78 AB)."
+2026-09-26,PIT @ DET,DET,Justin Verlander,RHP,12.27,2.45,3.2,1,80,1.1,
+2026-09-26,CIN @ TOR,CIN,Rhett Lowder,RHP,6.01,7.14,127.1,101,84,3.5,Workhorse — 90+ pitches in 8 of his last 10 starts.
+2026-09-26,CIN @ TOR,TOR,Trey Yesavage,RHP,3.67,8.84,95.2,94,84,5.7,Workhorse — 90+ pitches in 7 of his last 10 starts. | Tough on left-handed bats — .188 against (191 AB). | Tough on right-handed bats — .178 against (146 AB).
+2026-09-26,LAD @ SF,LAD,Blake Snell,LHP,1.86,12.10,38.2,52,83,6.5,"Misses bats — 12.10 K/9, about a strikeout an inning. | Rolling — 1.02 ERA over his last 4 (2 ER in 17.7 IP). | Tough on right-handed bats — .182 against (99 AB)."
+2026-09-26,LAD @ SF,SF,Matt Wilkinson,LHP,3.65,6.57,24.2,18,64,3.3,
+2026-09-26,TEX @ MIN,TEX,Nathan Eovaldi,RHP,4.27,8.98,141.1,141,91,6.2,Workhorse — 90+ pitches in 6 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 9 of his last 10. | Team has won 7 of his last 10 starts.
+2026-09-26,TEX @ MIN,MIN,Bailey Ober,RHP,4.21,6.50,126.0,91,86,4.1,Durable — 80+ pitches in 8 of his last 10 starts. | Rolling — 2.75 ERA over his last 4 (6 ER in 19.7 IP).
+2026-09-26,ATL @ MIA,ATL,Brent Suter,LHP,3.48,7.67,88.0,75,42,24.8,
+2026-09-26,ATL @ MIA,MIA,Jack Ralston,RHP,4.50,9.56,16.0,17,,5.2,"Misses bats — 9.56 K/9, about a strikeout an inning."
+2026-09-26,CLE @ KC,CLE,Tanner Bibee,RHP,4.35,7.02,182.0,142,90,4.2,Workhorse — 90+ pitches in 8 of his last 10 starts.
+2026-09-26,CLE @ KC,KC,Michael Wacha,RHP,3.33,7.13,194.1,154,95,4.7,Workhorse — 90+ pitches in 9 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 10 of his last 10. | Going deep — 6+ innings in 5 of his last 6 starts. | Tough on left-handed bats — .215 against (419 AB).
+2026-09-26,COL @ CWS,COL,Jose Quintana,LHP,5.40,4.40,45.0,22,76,2.4,
+2026-09-26,COL @ CWS,CWS,Davis Martin,RHP,3.84,7.49,145.1,121,83,4.6,Rolling — 2.12 ERA over his last 4 (4 ER in 17.0 IP).
+2026-09-26,STL @ MIL,STL,Quinn Mathews,LHP,3.65,7.92,44.1,39,98,4.9,Workhorse — 90+ pitches in 8 of his last 8 starts. | Rolling — 2.55 ERA over his last 4 (7 ER in 24.7 IP).
+2026-09-26,STL @ MIL,MIL,Dustin May,RHP,4.67,8.77,142.2,139,78,4.4,
+2026-09-26,TB @ PHI,TB,Griffin Jax,RHP,3.62,9.47,109.1,115,68,5.2,"Works into the 6th regularly — 5+ IP in 9 of his last 10. | Misses bats — 9.47 K/9, about a strikeout an inning."
+2026-09-26,AZ @ SD,SD,Walker Buehler,RHP,4.56,7.68,150.0,128,82,3.6,Team has won 7 of his last 10 starts.
+2026-09-26,HOU @ ATH,HOU,Hayden Wesneski,RHP,3.50,6.83,54.0,41,82,4.2,Works into the 6th regularly — 5+ IP in 8 of his last 10. | Team has won 7 of his last 10 starts. | Tough on right-handed bats — .213 against (80 AB).
+2026-09-26,HOU @ ATH,ATH,Jack Perkins,RHP,5.90,10.16,116.0,131,83,8.2,"Durable — 80+ pitches in 8 of his last 10 starts. | Works into the 6th regularly — 5+ IP in 8 of his last 10. | Misses bats — 10.16 K/9, about a strikeout an inning."
+2026-09-26,LAA @ SEA,LAA,Ryan Johnson,RHP,4.93,7.20,95.0,76,86,4.4,Durable — 80+ pitches in 9 of his last 10 starts.
+2026-09-26,LAA @ SEA,SEA,Kade Anderson,LHP,4.18,7.79,32.1,28,80,5.4,
